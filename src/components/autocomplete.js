@@ -1,4 +1,4 @@
-import algoliasearch from 'algoliasearch.js';
+import algoliasearch from 'algoliasearch';
 import instantsearch from 'instantsearch.js';
 
 // Instant Search Widgets
