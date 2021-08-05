@@ -1,5 +1,5 @@
+import Autocomplete from 'autocomplete';
 
-const Autocomplete = require("autocomplete");
 
 
 class SpencerAndWilliamsSearch {
