@@ -1,4 +1,5 @@
-import Autocomplete from './components/autocomplete';
+//import Autocomplete from './components/autocomplete';
+Autocomplete = require('autocomplete');
 
 class SpencerAndWilliamsSearch {
   constructor() {
